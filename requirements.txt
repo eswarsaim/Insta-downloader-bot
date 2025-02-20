@@ -3,3 +3,5 @@ pyrogram
 tgcrypto
 requests
 python-dotenv
+pyTelegramBotAPI
+yt_dlp
